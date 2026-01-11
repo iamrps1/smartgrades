@@ -28,7 +28,7 @@
     "next": "15.1.0",
     "next-auth": "^4.24.11",
     "react": "^19.0.0",
-    "react-dom": "^19.0.0",
+    "react-dom": "^19.2.3",
     "react-pdf": "^9.2.1",
     "react-player": "^2.16.0",
     "sonner": "^1.7.4",
